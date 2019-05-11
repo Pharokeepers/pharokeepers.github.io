@@ -2,7 +2,7 @@
 layout: post
 title: "test"
 date: 2019-04-21 17:38:59 +0200
-tag: pharao
+tags: pharao test
 categories: jekyll update
 comments: true
 ---
