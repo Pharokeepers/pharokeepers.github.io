@@ -10,7 +10,6 @@ comments: true
 
 ## Test
 
-This is a test :D
-
+This is a test :smile:
  
 
