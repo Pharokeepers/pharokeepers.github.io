@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test"
+title: "testt"
 date: 2019-04-21 17:38:59 +0200
 tags: testing ezt
 categories: jekyll update
@@ -16,3 +16,8 @@ GitHub pages allows you to turn github repositories into static websites which c
 
  
 
+<small>
+    {% for tag in page.tags %}
+    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</small>
