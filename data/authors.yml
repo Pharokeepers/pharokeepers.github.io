@@ -1,3 +1,10 @@
 Nina_Medic:
     name: Nina_Medic
     web: https://twitter.com/medicka992
+---
+# Layout.
+layout: post
+
+# Author.
+author: Nina_Medic
+---
