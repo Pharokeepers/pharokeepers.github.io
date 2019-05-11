@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "testt"
+title: "test"
 date: 2019-04-21 17:38:59 +0200
 tags: [pharao]
 categories: jekyll update
