@@ -3,6 +3,19 @@ layout: page
 ---
 
     {{content}}
+ <!-- Look the author details up from the site config. -->
+{% assign author = site.data.authors[page.author] %}
+
+<!-- Output author details if some exist. -->
+{% if author %}
+    <span>
+        <!-- Personal Info. -->
+        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+    </span>
+{% endif %}
+
+
+
 
     {% if page.comments %} 
         <div id="disqus_thread"></div>
@@ -16,16 +29,7 @@ layout: page
                 this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
                 };
                 */
- <!-- Look the author details up from the site config. -->
-{% assign author = site.data.authors[page.author] %}
 
-<!-- Output author details if some exist. -->
-{% if author %}
-    <span>
-        <!-- Personal Info. -->
-        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
-    </span>
-{% endif %}
                 
                 
                 (function() { // DON'T EDIT BELOW THIS LINE
