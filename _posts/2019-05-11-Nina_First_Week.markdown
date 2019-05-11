@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Na"
+author: nina_medic
+title: "Nah"
 date: 2019-05-11 20:38:00 +0200
 categories: jekyll update
 comments: true
-author: nina_medic
+
 ---
 
 Hi everyone! My name is Nina. 
