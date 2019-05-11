@@ -20,7 +20,7 @@ pagination:
                 <article class= {% if odd %} "feature left" {% assign odd = false %} {% else %} "feature right" {% assign odd = true %} {% endif %}>
                     <span class="image"><img src="{{site.baseurl}}/images/{{post.img}}"></span>
                     <div class="content">
-                        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}, by {% case post.author %} {% when 'smi' %} Smiljana Knežev {% when 'nm' %} Nina Medić {% else %} Anonymous {% endcase %} </span>
+                        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}, by {% case post.author %} {% when 'smi' %} Smiljana Knežev {% when 'nm' %} Nina Medić {% else %} {{post.author}} {% endcase %} </span>
                         <h2>{{post.title}}</h2>
                         <p>{{post.excerpt}}</p>
                         <ul class="actions">
