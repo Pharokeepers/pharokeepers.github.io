@@ -5,7 +5,9 @@ date: 2019-05-11 11:08:59 +0200
 img: jekyll01.png
 ---
 
-GitHub pages allows you to turn github repositories into static websites which can be used to showcase portfolios, projects, documentations and many more.  It is an excellent alternative to payed hosting solutions and it is very easy to setup. Although GitHub provides an excellent and free hosting solution, it can be hard to build beautiful professional websites and blogs with lots of content.  Jekyll is a tool for transforming markdown text into static websites, no databases needed. In this simple tutorial we will setup an empty Jekyll site and host it on GitHub. 
+Jekyll and GitHub pages allows you to turn github repositories into professional-looking static websites which can be used to showcase portfolios, projects, documentations and even GSOC blogs.  
+
+GitHub pages is an excellent alternative to payed hosting solutions and it is very easy to setup. Although GitHub provides an excellent and free hosting solution, it can be hard to build beautiful professional websites and blogs with lots of content.  Jekyll is a tool for transforming markdown text into static websites, no databases needed. In this simple tutorial we will setup an empty Jekyll site and host it on GitHub. 
 
 ## Setup Tutorial
 
