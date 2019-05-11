@@ -1,6 +1,5 @@
 ---
 layout: post
-author: nina_medic
 title: "Niii"
 date: 2019-05-11 20:38:00 +0200
 categories: jekyll update
