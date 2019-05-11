@@ -37,6 +37,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
+      category: pharo
       img: pharo01.png
       comments: true
       
