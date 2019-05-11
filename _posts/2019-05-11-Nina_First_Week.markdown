@@ -12,4 +12,4 @@ I will be working on creating a reusable library for Graphs in Pharo, which will
 I really like this topic, I mean graphs are so important for programming. You can represent half of the world around us with them, and to have an easy way of seeing what you have done in an ordered way, that is pretty cool. :smiley:
 For this first week of community bounding I decided to focus on introducing myself and getting to know other participants. 
 Also in creating all nessecary social media, like twetter: https://twitter.com/medicka992.
-Next week will be more oriented for revision. I will focus on material I will need for coding, like graphs and Pharo syntax (%https://books.pharo.org/learning-oop/?fbclid=IwAR1D_61TXJFfxaIzQNfcbZA8cpJqLPkfhaBPT11xaPchjSG2PMoyR1kRBQw%). 
+Next week will be more oriented for revision. I will focus on material I will need for coding, like graphs and Pharo syntax (https://books.pharo.org/learning-oop/?fbclid=IwAR1D_61TXJFfxaIzQNfcbZA8cpJqLPkfhaBPT11xaPchjSG2PMoyR1kRBQw). 
