@@ -1,7 +1,7 @@
 ---
 author: smi
 title: "Static Blog with GitHub Pages and Jekyll"
-date: 2019-05-11 11:11:59 +0200
+date: 2019-05-11 11:08:59 +0200
 img: jekyll01.png
 ---
 
