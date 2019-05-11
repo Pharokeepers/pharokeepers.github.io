@@ -1,7 +1,7 @@
 ---
 author: smi
 title: "Adding Content: Posts and Pages"
-date: 2019-05-12 11:10:00 +0200
+date: 2019-05-11 11:10:00 +0200
 categories: jekyll
 img: jekyll01.png
 ---
