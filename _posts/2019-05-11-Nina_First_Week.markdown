@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Niii"
+title: "Nin"
 date: 2019-05-11 20:38:00 +0200
 categories: jekyll update
 comments: true
-Nina_Medic:
- name: Nina_Medic
-web: https://twitter.com/medicka992
+author: Nina_Medic
 ---
 
 Hi everyone! My name is Nina. 
