@@ -1,10 +1,13 @@
 ---
 layout: page
+excerpt_separator: <!--more-->
 ---
 
     {{content}}
 
-
+    <p>
+    <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}, by {% case page.author %} {% when 'smi' %} Smiljana Knežev {% when 'nm' %} Nina Medić {% else %} Anonymous {% endcase %} </span>
+    </p>
 
     {% if page.comments %} 
         <div id="disqus_thread"></div>
@@ -18,9 +21,6 @@ layout: page
                 this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
                 };
                 */
-
-                 {% include author.html %}
-                
                 (function() { // DON'T EDIT BELOW THIS LINE
                 var d = document, s = d.createElement('script');
                 s.src = 'https://pharokeepers.disqus.com/embed.js';

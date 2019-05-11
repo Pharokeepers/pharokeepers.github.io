@@ -1,16 +1,14 @@
 ---
-layout: post
+author: smi
 title: "Adding Content: Posts and Pages"
 date: 2019-04-21 18:58:59 +0200
 categories: jekyll update
-comments: true
+img: jekyll01.png
 ---
 
+Pages are the basic building blocks of a website. Pages in Jekyll represent standalone content (e.g home page, about page, contact me page, general info or donation page ... ). 
 
-
-## Introduction
-
-Pages are the basic building blocks of a website. Pages in Jekyll represent standalone content (e.g home page, about page, contact me page, general info or donation page ... ). Pages can easily be added by adding a `.html` or `.md` file to the root folder (or some subfolder).  Posts, on the other hand, represent content that is grouped by date or content and are typically written in *markdown*. Jekyll provides everything you need to turn posts into a fully functional blog. 
+Pages can easily be added by adding a `.html` or `.md` file to the root folder (or some subfolder).  Posts, on the other hand, represent content that is grouped by date or content and are typically written in *markdown*. Jekyll provides everything you need to turn posts into a fully functional blog. 
 
 ## Adding Content Tutorial
 
