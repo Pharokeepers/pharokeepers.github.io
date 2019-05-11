@@ -4,7 +4,6 @@ title: "tt"
 date: 2019-54-11 17:38:59 +0200
 categories: jekyll update
 comments: true
-author: Nina
 --- 
  
 Hi everyone! My name is Nina. 
