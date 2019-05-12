@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nm
-title: "GSoC project"
+title: "GSoC projectt"
 date: 2019-05-11 20:38:00 +0200
 categories: jekyll update
 comments: true
