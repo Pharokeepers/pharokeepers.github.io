@@ -2233,6 +2233,31 @@
 			.image.main img {
 				width: 100%;
 			}
+		
+			.image.rounded {
+				border-radius: 100%;
+			}
+	
+				.image.rounded img {
+					border: solid 0.5em rgba(144, 144, 144, 0.25);
+					border-radius: 100%;
+				}
+	
+		.image.captioned {
+			border-radius: 0;
+			margin-bottom: 4em;
+		}
+
+			.image.captioned img {
+				border-radius: 0;
+			}
+
+			.image.captioned h3 {
+				background-color: #fff;
+				box-shadow: 0px 0.0375em 0.125em 0px rgba(0, 0, 0, 0.15);
+				display: block;
+				padding: 2em 1em;
+			}
 
 /* List */
 
@@ -2701,6 +2726,104 @@
 				background-color: rgba(144, 144, 144, 0.2);
 			}
 
+/* FEATURE GRID */
+
+/* Feature */
+
+	.feature-grid {
+		position: relative;
+	}
+
+	.feature-grid:after {
+		clear: both;
+		content: '';
+		display: block;
+	}
+
+	.feature-grid .feature {
+		display: inline-block;
+		float: left;
+		margin-bottom: 3em;
+		width: 50%;
+	}
+
+		.feature-grid .feature .content {
+			width: 60%;
+		}
+
+		.feature-grid .feature .image {
+			width: 30%;
+		}
+
+			.feature-grid .feature .image img {
+				display: inline;
+				max-width: 100%;
+			}
+
+		.feature-grid .feature:nth-child(odd) .content, .feature-grid .feature:nth-child(odd) .image {
+			float: right;
+			margin-right: 5%;
+			text-align: right;
+		}
+
+		.feature-grid .feature:nth-child(even) .content, .feature-grid .feature:nth-child(even) .image {
+			float: left;
+			margin-left: 5%;
+			text-align: left;
+		}
+
+	@media screen and (max-width: 1280px) {
+
+		.feature-grid .feature {
+			margin-bottom: 2em;
+		}
+
+	}
+
+	@media screen and (max-width: 980px) {
+
+		.feature-grid .feature {
+			display: block;
+			width: 100%;
+		}
+
+			.feature-grid .feature .content {
+				width: 65%;
+			}
+
+			.feature-grid .feature .image {
+				margin-left: 0 !important;
+				margin-right: 0 !important;
+			}
+
+	}
+
+	@media screen and (max-width: 736px) {
+
+		.feature-grid .feature {
+			margin-bottom: 1em;
+		}
+
+	}
+
+	@media screen and (max-width: 480px) {
+
+		.feature-grid .feature .content,
+		.feature-grid .feature .image {
+			display: block;
+			margin-left: 0 !important;
+			margin-right: 0 !important;
+			text-align: center !important;
+			width: 100%;
+		}
+
+		.feature-grid .feature .image {
+			margin-bottom: 1em;
+		}
+
+	}
+
+
 /* Feature */
 
 	.feature {
@@ -2848,7 +2971,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 8em 0 6em 0;
+		padding: 3em 0 2em 0;
 		position: relative;
 	}
 
