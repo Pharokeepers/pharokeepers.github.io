@@ -9,7 +9,7 @@ comments: true
 ---
 
 Hi everyone! My name is Nina. 
-A couple of days ago amazing thing happened. My project for GSoC: :tada: :tada: :smiley: [Graph library with layouting algorithms](https://docs.google.com/document/d/1V8_HaZnxYsCfaiZs4vI1C5Dh4TvRPz-H51aYOuY9lFA/edit?usp=sharing)  was accepted!!!
+A couple of days ago amazing thing happened. My project for GSoC: [Graph library with layouting algorithms](https://docs.google.com/document/d/1V8_HaZnxYsCfaiZs4vI1C5Dh4TvRPz-H51aYOuY9lFA/edit?usp=sharing)  was accepted!!! :tada: :tada: :smiley:
 I will be working on creating a reusable library for Graphs in Pharo, which will include the layouting algorithm for the visualization.
 
 
