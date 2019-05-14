@@ -7,7 +7,7 @@ title: New Collections for Pharo
 comments: true
 ---
 
-Hi everyone! My name is Smiljana, and during the GSoC 2019, I will be working on implementing the Containers library for Pharo. This project is being mentored by Yurko Tymchuk and Stéphane Ducasse.
+Hi everyone! My name is Smiljana, and during the (GSoC 2019)[<https://summerofcode.withgoogle.com/>], I will be working on implementing the Containers library for (Pharo)[ <http://pharo.org/>]. This project is being mentored by Yurko Tymchuk and Stéphane Ducasse.
 
 Pharo is an elegant and easy to learn pure objected-oriented programming language that comes with an amazing and intuitive IDE that has everything anyone needs to start coding. Pharo also comes with a large set of collections with around 100 classes, but there are also many new and powerful collections developed in Pharo, that are not yet part of the Pharo project. 
 
