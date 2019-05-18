@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-This has been mostly a revision week. 
+This has been mostly a revision week. :green_book: :smiley:
 
 I have been reading [Learning Object-Oriented Programming, Design and TDD with Pharo](http://files.pharo.org/books-pdfs/learning-oop/2018-04-01-LearningOOP.pdf) by Stéphane Ducasse with Damien Pollet. Also, implemented some examples from the book for practice, with Smiljana. We decided to practice some pair programming and revise Pharo sintax together. My next idea was to post these examples into one repository on Github, but there I come to a little problem.
 Posting Pharo code on git is a bit different, therefore I watched some tutorials on how to do that. One of wich was really useful, so I am posting a link to it: https://www.youtube.com/watch?v=A9H8jsSnBKM
