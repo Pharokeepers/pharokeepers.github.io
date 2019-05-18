@@ -8,7 +8,6 @@ comments: true
 
 ---
 
-Exploring Pharo :smiley:
 This has been mostly a revision week. I have been reading [Learning Object-Oriented Programming, Design and TDD with Pharo](http://files.pharo.org/books-pdfs/learning-oop/2018-04-01-LearningOOP.pdf)
 by Stéphane Ducasse with Damien Pollet 
 Also, implemented some examples from the book for practice, with Smiljana. We decided to practice some pair programming and revise Pharo sintax together.
