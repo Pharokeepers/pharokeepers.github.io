@@ -14,6 +14,6 @@ This inspired me to look for already existing implementations of graph structure
 
 I spend some time in consulting with my mentors about the structure of the library I will be implementing. As well as writing some steps of the wiki page *Setting up a new project*. When they include my text, I will post a link to it. :smile: 
 
-One of the things that created a bit of an issue for me this week, was posting [my first Pharo code](https://github.com/medicka/My-Pharo) on [GitHub](https://github.com/).I have never done it before, so naturally first I did some research. 
+One of the things that created a bit of an issue for me this week, was posting [my first Pharo code](https://github.com/medicka/My-Pharo) on [GitHub](https://github.com/). I have never done it before, so naturally first I did some research. 
 
 But even though I followed the instruction correctly, it was not always working for me. After a lot of trying and a bit of getting annoyed :worried:, I asked for some help. It turned out my problem was mostly that I am using Windows. For this operating system there are some special rules. Talking to some fellow students, I noticed that a lot of them had the same problem. This gave me an idea, to include the helpful hints I learned and was given in my next blog post. So next week is not going to be about my project, but about some things you need to know when using Pharo on Windows. :smile:
