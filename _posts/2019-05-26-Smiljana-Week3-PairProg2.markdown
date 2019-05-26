@@ -7,7 +7,7 @@ title: Pair Programming - Part II
 comments: true
 ---
 
-Last week I wrote a [post](https://pharokeepers.github.io/pharo/2019/05/19/Smiljana-Week-2-Pair-Programming.html) post about advantages and disadvantages of pair programming. I received some feedback so I decided to do more research, consult the scientific literature and write a follow-up. 
+Last week I wrote a [post](https://pharokeepers.github.io/pharo/2019/05/19/Smiljana-Week-2-Pair-Programming.html)  about advantages and disadvantages of pair programming. I received some feedback so I decided to do more research, consult the scientific literature and write a follow-up. 
 
 In my last blog post I wrote:
 
@@ -31,5 +31,5 @@ In my previous post I only listed some of the advantages of pair programming ove
 
 ## Conclusion 
 
-What I love about Pharo community is that it's learning oriented. I wrote something that wasn't true, so I got resources to learn from. I learned that pair programming doesn't actually increase the overall project cost in the long run and brings other benefits with it. I had great experience with pair programming the past two weeks  and find it very fun and useful.  I'd definitely  recommend pair programming as a learning method for novices to quickly tackle new problems, it helped me a lot.
+What I love about Pharo community is that it's learning oriented and is eager to provide feedback and resources to learn from. I learned that pair programming doesn't actually increase the overall project cost in the long run and brings other benefits with it. I had great experience with pair programming the past two weeks  and find it very fun and useful.  I'd definitely  recommend pair programming as a learning method for novices to quickly tackle new problems, it helped me a lot.
 
