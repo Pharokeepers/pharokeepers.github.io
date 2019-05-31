@@ -15,7 +15,6 @@ Git is a really powerful tool, which is being used regularly, especially if we a
 Iceberg works nicely on Pharo 7.0, but I will not get into its details here. What I want to talk about is some basic tips for beginners, when trying to use GitHub with Pharo. I am separating Windows here, because Pharo is not being mainly developed for this OS, so there are some tricks you need to know:
 
 1. For connecting to git use [SSH key](https://jumpcloud.com/blog/what-are-ssh-keys/).
-
 ![](/images/SSHPharo.png)
 
 2. If you are making your first repository with Pharo, it is a good idea to watch some tutorial, like:
