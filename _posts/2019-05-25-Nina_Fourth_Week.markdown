@@ -20,7 +20,6 @@ Iceberg works nicely on Pharo 7.0, but I will not get into its details here. Wha
 2. If you are making your first repository with Pharo, it is a good idea to watch some tutorial, like:
  * https://www.youtube.com/watch?v=PK2yCu2rWCc&feature=share&fbclid=IwAR03niS_4hGtvWYpKhoauj9Qx1gmlmF8L2CD5X2x-158QcfPuCzgJgbLhBo
  * https://www.youtube.com/watch?v=77XrcO4jM8Y&feature=share&fbclid=IwAR2DkmeudfJelMriW7qUPhAhrCVGsJL6dOgl5030jcFul5Y3xEVwfFNEN4U
- 
 3. Make your local repository, on a path close to C. Don`t bury it too deep.
 4. If a message next to your newly created repository is *not loaded*, don`t worry. Add packages to it and press right click *load*, to continue.
 
