@@ -46,6 +46,5 @@ There are so many uses for graphs: in mathematics, engineering, programming... T
 One of the uses for graphs is representing a network of roads between cities (each city is a vertex, every road connection is edge). This way we can see who can travel where. As I spend some time in researching code refactoring, I thought it would be interesting to see the program code the same way. Classes as vertices and edges as calls. We can follow dependencies easier. Also see which information can travel where. :smile:
  
 <br>
-<br>
 
 [^1]: Definition taken from [Algorithms, Fourth edition](http://www.albertstam.com/Algorithms.pdf) by Robert Sedgewick and Kevin Wayne; page 518.
