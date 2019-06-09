@@ -1,7 +1,7 @@
 ---
 layout: post
 author: smi
-date: 2019-05-26 10:00:00 +0200
+date: 2019-09-06 10:00:00 +0200
 categories: pharo
 title: Comparing Ordered Dictionaries
 comments: true
