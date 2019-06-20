@@ -14,13 +14,13 @@ One of the reasons why, by using graphs we can accomplish so much, is that graph
 <p>First, we explain what traversing means. <br>
 The word definition is: travel across or through. In the context of graphs, traversing means moving through the graph, visiting nodes (vertices) by using the edges.</p>
 
-BFS - breath first search
+BFS - breadth first search
 > Single-source shortest paths: Given a graph and a source vertex s, support queries of the form *Is there a path from s to a given target vertex v?* If, so find a shortest such path (one with a minimal number of edges). [^1]
 
 This is what we are looking for: the shortest path from source s to given vertex v. The method for solving this is using BFS.
 
 **What does BFS do?**<br>
-Let`s explain on an example. 
+Let's explain on an example. 
 
 ![](/images/Graph.png)
 
