@@ -20,6 +20,6 @@ In a balanced state of this system, the edges tend to have a uniform length (bec
 
 Here is an [interactive force based layout](https://observablehq.com/@d3/force-directed-graph).
 
-Try moving one vertex (by clicking on it and dragging it). How the rest of the group is reacting. <br>
+Try moving one vertex (by clicking on it and dragging it). How the rest of the group is reacting? <br>
 Notice that they are following, but not exactly, even the one we explicitly moved is not staying in the chosen place. So we get a bit different representation, after moving one node. Why is this happening?<br>
 Well, because of the forces we are choosing. By changing the position of one node, the force for this node and his edges, change. This change affects the movement of the rest of the nodes.
