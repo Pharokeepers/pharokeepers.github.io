@@ -2,7 +2,7 @@
 layout: post
 author: nm
 title: "Force based layout"
-date: 2019-05-11 20:38:00 +0200
+date: 2019-06-28 14:00:00 +0200
 categories: jekyll update
 comments: true
 
