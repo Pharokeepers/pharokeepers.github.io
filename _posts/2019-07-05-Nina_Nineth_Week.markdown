@@ -12,7 +12,7 @@ comments: true
 
 Updating baseline classes. We changed the implementation in such way that it is easier to import the code to new Pharo image. Changing some class and method names, so that they will be easier to understand. Making a better architecture for tests. Added some abstract classes which were missing, like AbstractEdge. Added some missing test.
 
-- https://github.com/medicka/PharoGSoC/commit/328663d3255d0e1ef5a9a736e482ff09d4cd11c6
+- <https://github.com/medicka/PharoGSoC/commit/328663d3255d0e1ef5a9a736e482ff09d4cd11c6>
 - https://github.com/medicka/PharoGSoC/commit/6093cc3e214309d552e94520b6921697c082ca41
 - https://github.com/medicka/PharoGSoC/commit/1ee4fedbab47069b5e111a710c3a820ac83d05b1
 - https://github.com/medicka/PharoGSoC/commit/b443375e5c988e525d23ecb5659b6dbf51fe01b7
