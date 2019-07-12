@@ -10,7 +10,7 @@ comments: true
 
 <p>This week I have been more oriented towards the Roassal and connecting my layouts to it. With the help of Milton (original Roassal creator) we manage to establish the connection. </p>
 
-Roassal gif
+![](/images/RoassalGif.gif)
 
 <p>Beside this I continued with refactoring the code, by changing some names and improving the architecture of my classes, giving better descriptions and fixing some small mistakes.</p>
 
