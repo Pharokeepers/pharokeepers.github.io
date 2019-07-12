@@ -36,5 +36,5 @@ comments: true
 
 <p>In some cases, just seeing our graph in a linear structure is very useful. We can implement properties based on which the size of the vertex is determiened, therefore just looking at them in a vertical or horizontal line can reveal a lot of information. </p>
 
-telescope gif
+![](/images/HorizVertic.gif)
 
