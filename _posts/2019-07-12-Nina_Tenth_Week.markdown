@@ -8,7 +8,7 @@ comments: true
 
 ---
 
-<p>This week I have been more oriented towards the Roassal and connecting my layouts to it. With the help of Milton (original Roassal creator) we manage to establish the connection. </p>
+<p>This week I have been more oriented towards the Roassal and connecting my layouts to it. With the help of Milton (original Roassal creator) we manage to establish the connection. :smile: </p>
 
 ![](/images/RoassalGif.gif)
 
