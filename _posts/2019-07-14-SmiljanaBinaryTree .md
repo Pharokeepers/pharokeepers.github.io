@@ -45,7 +45,7 @@ In our case, with a tree, there was no need to separate node class and a tree cl
 
 
 
-![composite_alternate.png](/home/smi/pharokeepers.github.io/images/composite_alternate.png)
+![](/images/composite_alternate.png)
 
 ## Moving the direction of implementation
 
