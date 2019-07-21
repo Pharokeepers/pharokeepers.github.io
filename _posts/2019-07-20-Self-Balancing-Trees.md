@@ -1,7 +1,7 @@
 ---
 layout: post
 author: smi
-date: 2019-06-20 23:00:00 +0200
+date: 2019-07-20 23:00:00 +0200
 categories: pharo
 title: Self-Balancing Trees
 comments: true
