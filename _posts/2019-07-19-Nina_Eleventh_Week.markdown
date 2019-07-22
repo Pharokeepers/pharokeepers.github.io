@@ -37,4 +37,4 @@ Then I implemented necessary classes and methods for the layout itself:
 - <https://github.com/medicka/PharoGSoC/commit/fd381eec03c09cc6c6189d788ece99754588b99a>
 - <https://github.com/medicka/PharoGSoC/commit/a8691883a428544998709f28e1bcfbae351b1e6c>
 
-![](/images/CellCluster.png)
+![](/images/CellCluster.gif)
