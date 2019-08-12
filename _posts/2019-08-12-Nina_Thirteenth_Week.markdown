@@ -8,7 +8,8 @@ comments: true
 
 ---
 
-<p> Refactoring is an important part of each project. It allows us to fix architectural mistakes, to better organize our code. I have been applying refactoring techniques from the beginning of the project, to avoid having huge changes in the end. </p>
+<p> Refactoring is an important part of each project. It allows us to fix architectural mistakes, to better organize our code. Formal definition would say something like: Refactoring represents change in an internal structure of a software, in an attempt to make it more understandable and easier for modification, but without a visible shift in his behaviour.
+I have been applying refactoring techniques from the beginning of the project, to avoid having huge changes in the end. </p>
 
 - <https://github.com/medicka/graPharo/commit/1abab85cb1a4b6d1e070c41b38eb4def4f8f4b75>
 - <https://github.com/medicka/graPharo/commit/3a28d086f3067ea4e35fc5207761df2371d43979>
