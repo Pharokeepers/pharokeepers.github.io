@@ -39,7 +39,7 @@ Containers library is designed to be modular and as such each collection is inde
 
 ### Contribution Lists
 
-The following list shows GitHub pull requests, each one containing several commits. Ticked boxes indicate that all the changes are merged into the base branch. Most of the commits have been included into the base branch, while a few still await to be merged.  Changes made to the Containers-Tree project are more significant, and they are presented in a separate list. 
+The following list shows GitHub pull requests, each one containing several commits. Ticked boxes indicate that all the changes are merged into the base branch. Most of the commits have been included into the base branch, while a few still await to be merged (the ones that are not merged are marked as - *under review*).  Changes made to the Containers-Tree project are more significant, and they are presented in a separate list. 
 
 - [x] [Containers-SkipList: fix how to depend on it](https://github.com/Ducasse/Containers-SkipList/pull/2)
 - [x] [Containers-UniqueOrdered: add how to load and depend on](https://github.com/Ducasse/Containers-UniqueOrdered/pull/1)
@@ -49,11 +49,11 @@ The following list shows GitHub pull requests, each one containing several commi
 - [x] [Containers-PropertyEnvironment: change coverage status button url](https://github.com/Ducasse/Containers-PropertyEnvironment/pull/3)
 - [x] [Containers-Stack: edit method comments](https://github.com/Ducasse/Containers-Stack/pull/4)
 - [x] [Containers-Array2D: Patch/separate tests](https://github.com/Ducasse/Containers-Array2D/pull/7) 
-- [ ] [Containers-Queue: separate tests, add missing tests and comments](https://github.com/Ducasse/Containers-Queue/pull/5)
-- [ ] [Containers-Trie: add example](https://github.com/SmiljanaKnezev/Containers-Trie/pull/1)
-- [ ] [Containers-Array2D: change coveralls url to Array2D instead of Grid](https://github.com/Ducasse/Containers-Array2D/pull/6)
-- [ ] [Containers-OrderPreservingDictionary: Add class and package comments with examples](https://github.com/Ducasse/Containers-OrderPreservingDictionary/pull/2)
-- [ ] [Containers-OrderedMultiMap: move tests to separate package](https://github.com/Ducasse/Containers-OrderedMultiMap/pull/5)
+- [ ] [Containers-Queue: separate tests, add missing tests and comments](https://github.com/Ducasse/Containers-Queue/pull/5) (under review)
+- [ ] [Containers-Trie: add example](https://github.com/SmiljanaKnezev/Containers-Trie/pull/1)(under review)
+- [ ] [Containers-Array2D: change coveralls url to Array2D instead of Grid](https://github.com/Ducasse/Containers-Array2D/pull/6)(under review)
+- [ ] [Containers-OrderPreservingDictionary: Add class and package comments with examples](https://github.com/Ducasse/Containers-OrderPreservingDictionary/pull/2)(under review)
+- [ ] [Containers-OrderedMultiMap: move tests to separate package](https://github.com/Ducasse/Containers-OrderedMultiMap/pull/5)(under review)
 
 
 
@@ -69,8 +69,8 @@ Containers-Tree contributions:
 - [x] [Add traversing methods and operations methods with tests](https://github.com/Ducasse/Containers-Tree/pull/10)
 - [x] [Fix or operator, and change argument names in AbstractTree](https://github.com/Ducasse/Containers-Tree/pull/11)
 - [x] [Add class and method comments for search tree](https://github.com/Ducasse/Containers-Tree/pull/14)
-- [ ] [Add class and method comments for n-ary tree](https://github.com/Ducasse/Containers-Tree/pull/13)
-- [ ] [Add avl tree with tests and commetns, modify binary search tree](https://github.com/Ducasse/Containers-Tree/pull/15)
+- [ ] [Add class and method comments for n-ary tree](https://github.com/Ducasse/Containers-Tree/pull/13)(under review)
+- [ ] [Add avl tree with tests and commetns, modify binary search tree](https://github.com/Ducasse/Containers-Tree/pull/15)(under review)
 
 
 
