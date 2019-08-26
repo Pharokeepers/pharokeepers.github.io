@@ -15,7 +15,7 @@ Hello everyone. The last three months passed by really quickly and the **Google 
 
 As many of you already know, [Pharo](https://pharo.org/) is an actively developed, elegant pure object-oriented programming language that comes with an immersive IDE that simplifies testing and debugging and can significantly reduce development time. Pharo also comes with a large set of [existing collections](http://pharo.gforge.inria.fr/PBE1/PBE1ch10.html) (see following figure). There is an existing effort - [The Containers modular library](http://smalltalkhub.com/#!/~StephaneDucasse/Containers), to include many more new collections in Pharo.  This project has attracted the attention of the Pharo community and I had a chance to work on it during this GSoC. 
 
- ![](http://pharo.gforge.inria.fr/PBE1/Collections/figures/CollectionHierarchy.png){:height="30%" width="30%"}
+ ![](http://pharo.gforge.inria.fr/PBE1/Collections/figures/CollectionHierarchy.png){:height="50%" width="50%"}
 
 
 
