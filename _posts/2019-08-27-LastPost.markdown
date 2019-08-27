@@ -1,0 +1,22 @@
+---
+layout: post
+author: nm
+title: "End Line"
+date: 2019-08-27 11:00:00 +0200
+categories: jekyll update
+comments: true
+
+---
+
+This is my last blog post about GSoC. For the last week and a half most of my time has been spent on documentation and some small refactoring of code. 
+
+The last evaluation has passed and all the work is done. Now, the only thing left is to wait for the final result. 
+
+During these months I have managed to create [graPharo](https://github.com/medicka/graPharo), a new library for layouting algorithms. Compleately independent of any visualization engine, which makes is able to work with any of them. The first thing I did was to make a basic graph structure. This structure can be used, but is not obligatory. It is possible to create your own structure and apply to it any of the layouts. I implemented a number of layouts, like: horizontal line, circle, grid, cell, cluster...
+
+Beside that, I manage to optimize some as well. I added creation od functions which will help with better positioning of vertices in equidistant and weighted circle layout. With these changes, algorithms are working properly, even when we have rectangles as shapes for verices, or when all have different sizes.
+
+I had time to write a booklet, that explains what graPharo contains how to use it and give a number of illustrated examples.
+Looking back at my project plan, I see that I manage to do everything, that I set out to do, which makes me really proud. I might not have done it in the order I firstly imagined, but I manage to finish it all.
+
+It has been a pleasure working on this project, with my mentors and Pharo community. I hope that we will have a chance to work together again. Thank you for the help and experience. :smile:
