@@ -17,6 +17,11 @@ During these months I have managed to create [graPharo](https://github.com/medic
 Beside that, I manage to optimize some as well. I added creation od functions which will help with better positioning of vertices in equidistant and weighted circle layout. With these changes, algorithms are working properly, even when we have rectangles as shapes for verices, or when all have different sizes.
 
 I had time to write a booklet, that explains what graPharo contains how to use it and give a number of illustrated examples.
+
+With my mentors I created the [video](https://drive.google.com/open?id=1FoKAUALJ_N0up6yf689B4BxJTwwUWtJ9) to present my project.
+
+
+
 Looking back at my project plan, I see that I manage to do everything, that I set out to do, which makes me really proud. I might not have done it in the order I firstly imagined, but I manage to finish it all.
 
 It has been a pleasure working on this project, with my mentors and Pharo community. I hope that we will have a chance to work together again. Thank you for the help and experience. :smile:
