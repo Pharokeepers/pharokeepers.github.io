@@ -56,7 +56,7 @@ procedure KnuthTransform(root):
 
 
 
-As seen from the previous image, each node in the original tree, corresponds to a node in the doubly chained tree. The children of a node now form a (singly) linked list, and in order to find the *k-th* child of some node *n*, we have to traverse the list: 
+As seen from the previous image, each node in the original tree, corresponds to a node in the doubly chained tree. The children of a node now form a (singly) [linked list](https://www.scaler.com/topics/linked-list/), and in order to find the *k-th* child of some node *n*, we have to traverse the list: 
 
 ```pseudocode
 procedure findK(n, k):
